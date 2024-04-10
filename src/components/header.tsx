@@ -7,9 +7,9 @@ export default function Header() {
                     <img src="/images/logo.png" alt="" className="w-24" />
                 </div>
                 <div className="flex flex-col items-center gap-4">
-                    <img src="/images/logo.png" alt="" className="w-12 " />
-                    <p className="rounded-full py-2 px-4 text-black bg-white text-2xl serif ">Alcântra Rockets Base</p>
-                    <h1 className="text-white text-4xl sm:text-6xl serif text-center">Transformando visões <br />em realidade</h1>
+                    <img src="/images/logo.png" alt="" className="w-12 sm:hidden " />
+                    <p className="rounded-full py-2 px-4 text-black bg-white text-2xl serif ">Alcântara <span className="text-[#A12A2A]">Rockets</span> Base</p>
+                    <h1 className="text-white text-4xl sm:text-6xl serif text-center italic">Transformando visões <br />em realidade</h1>
                     <img src="/images/dardo.png" alt="" className="w-72 absolute -bottom-20" />
                 </div>
             </div>

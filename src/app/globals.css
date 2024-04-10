@@ -5,5 +5,8 @@
 .serif {
   font-family: "Playfair Display", serif;
   font-optical-sizing: auto;
+}
+.lato {
+  font-family: "Lato", sans-serif;
   font-style: normal;
 }

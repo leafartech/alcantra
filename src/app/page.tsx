@@ -11,7 +11,7 @@ export default function Page() {
           <div className="flex justify-start w-full">
             <div className="z-50 w-full max-w-3xl flex flex-col items-start gap-4">
               <h1 className="text-5xl font-bold text-[#2C3E50]"><span className="text-[#233DFF]">Impulsione</span> o seu nome ou sua marca com assessoria, execução e boa companhia</h1>
-              <p className="text-2xl text-[#2C3E50]">Nosso Objetivo: Criar conexões duradouras entre marcas e pessoas, através de estratégias digitais que geram resultado e impacto.</p>
+              <p className="text-2xl text-[#2C3E50] lato">Nosso Objetivo: Criar conexões duradouras entre marcas e pessoas, através de estratégias digitais que geram resultado e impacto.</p>
               <a href="https://api.whatsapp.com/send?phone=554799261012" className="text-[#2C3E50] border-2 rounded-xl font-semibold text-xl border-[#2C3E50] py-4 px-12">COMECE AGORA</a>
             </div>
           </div>
@@ -41,7 +41,7 @@ export default function Page() {
             <div className="flex flex-col items-start gap-12">
               <div className="flex flex-col items-center">
                 <img src="/images/logo2.png" className="w-72" />
-                <p className="rounded-full py-2 px-4 text-black bg-white text-2xl serif ">Alcântra <span className="text-red-500">Rockets</span> Base</p>
+                <p className="rounded-full py-2 px-4 text-black bg-white text-2xl serif ">Alcântara <span className="text-[#A12A2A]">Rockets</span> Base</p>
               </div>
               <div className="">
                 <h3 className="text-[#233DFF] text-4xl font-semibold">Nossos Valores</h3>
@@ -79,37 +79,37 @@ export default function Page() {
               <div className="border-2 p-2 h-24 flex items-center justify-center border-[#233DFF]">
                 <h6 className="text-2xl xl:text-3xl font-medium text-[#2C3E50] text-center">Posicionamento digital</h6>
               </div>
-              <p className="text-[#2C3E50] text-left text-lg">Em 3 formatos conforme a sua necessidade: Assessoria, Consultoria ou mentoria</p>
+              <p className="text-[#2C3E50] text-left text-lg lato">Em 3 formatos conforme a sua necessidade: Assessoria, Consultoria ou mentoria</p>
             </div>
             <div className="flex flex-col gap-6 sm:gap-12 w-full max-w-xs text-center">
               <div className="border-2 p-2 h-24 flex items-center justify-center border-[#233DFF]">
                 <h6 className="text-2xl xl:text-3xl font-medium text-[#2C3E50] text-center">Desenvolver produto digital</h6>
               </div>
-              <p className="text-[#2C3E50] text-left text-lg">Já construi a sua autoridade, mas não sabe o que vender para sua audiência? Nós te ajudamos a passar essa fase</p>
+              <p className="text-[#2C3E50] text-left text-lg lato">Já construi a sua autoridade, mas não sabe o que vender para sua audiência? Nós te ajudamos a passar essa fase</p>
             </div>
             <div className="flex flex-col gap-6 sm:gap-12 w-full max-w-xs text-center">
               <div className="border-2 p-2 h-24 flex items-center justify-center border-[#233DFF]">
                 <h6 className="text-2xl xl:text-3xl font-medium text-[#2C3E50] text-center">Digital skills</h6>
               </div>
-              <p className="text-[#2C3E50] text-left text-lg">Em 3 formatos conforme a sua necessidade: Assessoria, Consultoria ou mentoria</p>
+              <p className="text-[#2C3E50] text-left text-lg lato">Em 3 formatos conforme a sua necessidade: Assessoria, Consultoria ou mentoria</p>
             </div>
             <div className="flex flex-col gap-6 sm:gap-12 w-full max-w-xs">
               <div className="border-2 p-2 h-24 flex items-center justify-center border-[#233DFF]">
                 <h6 className="text-2xl xl:text-3xl font-medium text-[#2C3E50] text-center">Escala em vendas</h6>
               </div>
-              <p className="text-[#2C3E50] text-left text-lg">Infoprodutos, ecommerce, site de vendas, canais de comunicação, redes sociais</p>
+              <p className="text-[#2C3E50] text-left text-lg lato">Infoprodutos, ecommerce, site de vendas, canais de comunicação, redes sociais</p>
             </div>
           </div>
         </Section>
         <Section classNameS="relative pt-32 sm:pt-0 py-24 min-h-screen px-4">
-          <img src="/images/bg6.png" className="absolute -top-24 right-0 h-48 sm:max-h-96" />
+          <img src="/images/bg6.png" className="absolute sm:top-36 xl:-top-24 -top-24 right-0 h-48 sm:h-full xl:max-h-[624px] sm:max-h-[402px] -z-10" />
           <div className="w-full flex justify-start">
             <div className="max-w-4xl flex flex-col items-center text-center gap-12">
               <h4 className="serif text-[#2C3E50] text-4xl">Estamos muito felizes com a possibilidade de trabalharmos juntos e desde já queremos agradecer pelo seu tempo.</h4>
               <a href="https://api.whatsapp.com/send?phone=554799261012" className="text-[#2C3E50] border-2 rounded-xl text-xl border-[#2C3E50] py-4 px-12">VAMOS CONVERSAR??</a>
               <div className="relative flex flex-col items-center">
                 <img src="/images/dardo.png" alt="" className="w-72 absolute -bottom-20" />
-                <p className="rounded-full py-2 px-4 text-black bg-white text-2xl serif ">Alcântra <span className="text-red-500">Rockets</span> Base</p>
+                <p className="rounded-full py-2 px-4 text-black bg-white text-2xl serif ">Alcântara <span className="text-[#A12A2A]">Rockets</span> Base</p>
               </div>
             </div>
           </div>
@@ -153,7 +153,7 @@ export default function Page() {
               <p className="text-[#2C3E50] italic">Em caso de necessidade de cancelamento pede-se apenas o aviso com 30 dias de antecedência, com pagamento dessa última parcela, sem multa.</p>
               <div className="relative flex flex-col items-center">
                 <img src="/images/dardo.png" alt="" className="w-72 absolute -bottom-20" />
-                <p className="rounded-full py-2 px-4 text-black bg-white text-2xl serif ">Alcântra <span className="text-red-500">Rockets</span> Base</p>
+                <p className="rounded-full py-2 px-4 text-black bg-white text-2xl serif ">Alcântara <span className="text-[#A12A2A]">Rockets</span> Base</p>
               </div>
             </div>
           </div>
@@ -177,7 +177,7 @@ export default function Page() {
         </div>
         <Section classNameS="py-12 sm:py-24 px-4">
           <div className="flex flex-col gap-8 text-center">
-            <h4 className="serif text-[#2C3E50] text-4xl font-semibold">Sua marca merece ser vista e lembrada</h4>
+            <h4 className="serif text-[#2C3E50] text-4xl font-medium italic">Sua marca merece ser vista e lembrada</h4>
             <div className="flex sm:flex-row flex-col gap-6 items-center">
               <img src="/images/bg8.png" className="h-96" />
               <div className="flex flex-col items-start gap-4">
@@ -189,11 +189,11 @@ export default function Page() {
         </Section>
       </main>
       <footer className="text-center flex items-center flex-col px-4 pb-8">
-        <p>Av Carlos Drummond de Anfrade, 436 - Praia dos Amores - Balneário Camboriú - SC</p>
+        <p className="font-semibold">Av Carlos Drummond de Anfrade, 436 - Praia dos Amores - Balneário Camboriú - SC</p>
         <p>CNPJ 42.461.847/0001-13</p>
         <div className="relative flex flex-col items-center">
           <img src="/images/dardo.png" className="w-72 absolute -bottom-20" />
-          <p className="rounded-full py-2 px-4 text-black bg-white text-2xl serif ">Alcântra <span className="text-red-500">Rockets</span> Base</p>
+          <p className="rounded-full py-2 px-4 text-black bg-white text-2xl serif ">Alcântara <span className="text-[#A12A2A]">Rockets</span> Base</p>
         </div>
       </footer>
     </div>
