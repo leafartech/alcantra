@@ -5,8 +5,8 @@ import "./globals.css";
 const roboto = Roboto({ subsets: ["latin"], weight: ['400', '500', '700'] });
 
 export const metadata: Metadata = {
-  title: "Alcantra Rockets Base",
-  description: "Website oficial Alcantra Rockets Base",
+  title: "Alcântara Rockets Base",
+  description: "Website oficial Alcântara Rockets Base",
 };
 
 export default function RootLayout({
