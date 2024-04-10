@@ -45,7 +45,7 @@ export default function Page() {
               </div>
               <div className="">
                 <h3 className="text-[#233DFF] text-4xl font-semibold">Nossos Valores</h3>
-                <ul className="text-2xl text-[#2C3E50]">
+                <ul className="text-lg sm:text-2xl text-[#2C3E50]">
                   <li>Autenticidade - Ser verdadeiro é o nosso lema.</li>
                   <li>Inovação - Pioneirismo em cada pixel e palavra.</li>
                   <li>Colaboração - Comprometimento e boa companhia.</li>
@@ -61,7 +61,7 @@ export default function Page() {
             <div className=""></div>
             <div className="">
               <h3 className="text-[#233DFF] text-4xl font-semibold">A solução para você:</h3>
-              <ul className="text-2xl text-[#2C3E50] flex flex-col gap-6">
+              <ul className="text-lg sm:text-2xl text-[#2C3E50] flex flex-col gap-6">
                 <li><strong>_Organização do tempo / Dinheiro</strong>: Toda campanha demonstrará o seu potencial com 10 ou com 1.000 reais. Trabalhamos com a construção de orçamento de investimento. Os valores e tempo investido serão sempre gradativos conforme os resultados. O nome disso é escalabilidade.</li>
                 <li><strong>_Público / Produto</strong>: Analisamos todos os dados de forma minuciosa buscando o melhor entendimento e alinhamento do produto - público - procura. O Brasil é um país imenso, com regionalidade e oportunidades distintas. Construimos campanhas com estratégia e comunicação assertiva.</li>
                 <li><strong>_Canais de comunicação</strong>: Assim como a região, cada pessoa tem a sua individualidade, bem como também, cada canal de comunicação a sua peculiaridade. Após algumas conversas iremos sugerir os melhores canais de comunicação de acordo com o seu interesse e personalidade, de forma a potencializar a sua visibilidade. Maior visibilidade, menor CAC.</li>
