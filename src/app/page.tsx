@@ -179,7 +179,7 @@ export default function Page() {
           <div className="flex flex-col gap-8 text-center">
             <h4 className="serif text-[#2C3E50] text-4xl font-medium italic">Sua marca merece ser vista e lembrada</h4>
             <div className="flex sm:flex-row flex-col gap-6 items-center">
-              <img src="/images/bg8.png" className="h-96" />
+              <iframe className="h-96 w-full sm:w-[542px] rounded-xl" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d628.6785817350911!2d-48.63455155151713!3d-26.956031922737548!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94d8c988d0b0f0a5%3A0x6a2660fa84fcd09b!2sAv.%20Carlos%20Drummond%20de%20Andrade%2C%20436%20-%20Praia%20dos%20Amores%2C%20Balne%C3%A1rio%20Cambori%C3%BA%20-%20SC%2C%2088331-410!5e0!3m2!1spt-BR!2sbr!4v1712834330979!5m2!1spt-BR!2sbr" loading="lazy" referrerPolicy="no-referrer-when-downgrade"></iframe>
               <div className="flex flex-col items-start gap-4">
                 <img src="/images/wpp.png" className="w-60" />
                 <a href="https://api.whatsapp.com/send?phone=554799261012" className="text-[#233DFF] border-2 rounded-xl font-semibold text-xl border-[#2C3E50] py-4 px-12">COMECE AGORA</a>
