@@ -161,7 +161,7 @@ export default function Page() {
         <Section classNameS="pb-12 sm:pb-24 px-4">
           <div className="sm:grid sm:grid-cols-2 flex flex-col w-full sm:gap-12">
             <div className="flex flex-col gap-4">
-              <h4 className="text-[#2C3E50] text-3xl">Por que já deu certo?</h4>
+              <h4 className="text-[#2C3E50] text-3xl italic">Por que já deu certo?</h4>
               <h3 className="text-[#233DFF] font-bold text-3xl">OS 4 ELEMENTOS DO PODER!</h3>
               <p className="text-[#2C3E50] text-lg"><strong>VONTADE</strong>. A vontade é superior ao preparo, a técnica e até a habilidade. O mundo acontece pelo movimento, mas é impactado pelas pessoas mais cheias de vontade.</p>
               <p className="text-[#2C3E50] text-lg"><strong>ENTENDIMENTO</strong>. É o potencializador da vontade!</p>
