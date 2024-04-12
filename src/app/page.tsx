@@ -9,7 +9,7 @@ export default function Page() {
         <Section classNameS="py-12 sm:py-24 relative sm:min-h-screen px-4">
           <img src="/images/bg2.png" className="absolute top-0 left-0 h-full w-full object-cover" />
           <div className="flex justify-start w-full">
-            <div className="z-50 w-full max-w-3xl flex flex-col items-start gap-4 pe-12 sm:pe-0">
+            <div className="z-50 w-full max-w-3xl flex flex-col items-start gap-4 pe-4 sm:pe-0">
               <h1 className="text-5xl font-bold text-[#2C3E50]"><span className="text-[#233DFF]">Impulsione</span> o seu nome ou sua marca com assessoria, execução e boa companhia</h1>
               <p className="text-2xl text-[#2C3E50] lato">Nosso Objetivo: Criar conexões duradouras entre marcas e pessoas, através de estratégias digitais que geram resultado e impacto.</p>
               <a href="https://api.whatsapp.com/send?phone=554799261012" className="text-[#2C3E50] border-2 rounded-xl font-semibold text-xl border-[#2C3E50] py-4 px-12">COMECE AGORA</a>
