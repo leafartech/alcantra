@@ -9,7 +9,7 @@ export default function Page() {
         <Section classNameS="py-12 sm:py-24 relative sm:min-h-screen px-4">
           <img src="/images/bg2.png" className="absolute top-0 left-0 h-full w-full object-cover" />
           <div className="flex justify-start w-full">
-            <div className="z-50 w-full max-w-3xl flex flex-col items-start gap-4">
+            <div className="z-50 w-full max-w-3xl flex flex-col items-start gap-4 pe-4 sm:pe-0">
               <h1 className="text-5xl font-bold text-[#2C3E50]"><span className="text-[#233DFF]">Impulsione</span> o seu nome ou sua marca com assessoria, execução e boa companhia</h1>
               <p className="text-2xl text-[#2C3E50] lato">Nosso Objetivo: Criar conexões duradouras entre marcas e pessoas, através de estratégias digitais que geram resultado e impacto.</p>
               <a href="https://api.whatsapp.com/send?phone=554799261012" className="text-[#2C3E50] border-2 rounded-xl font-semibold text-xl border-[#2C3E50] py-4 px-12">COMECE AGORA</a>
@@ -166,7 +166,7 @@ export default function Page() {
               <p className="text-[#2C3E50] text-lg"><strong>VONTADE</strong>. A vontade é superior ao preparo, a técnica e até a habilidade. O mundo acontece pelo movimento, mas é impactado pelas pessoas mais cheias de vontade.</p>
               <p className="text-[#2C3E50] text-lg"><strong>ENTENDIMENTO</strong>. É o potencializador da vontade!</p>
             </div>
-            <div className="pt-4 sm:pt-12 flex flex-col gap-4">
+            <div className="pt-4 sm:pt-[136px] flex flex-col gap-4">
               <p className="text-[#2C3E50] text-lg"><strong>EXECUÇÃO</strong>. É a testemunha ocular da vontade, aliado fiel da</p>
               <p className="text-[#2C3E50] text-lg"><strong>CONSTÂNCIA</strong>. A autoridade é construída pela repetição, realizada com vontade, entendimento e um propósito claro.</p>
             </div>
@@ -189,7 +189,7 @@ export default function Page() {
         </Section>
       </main>
       <footer className="text-center flex items-center flex-col px-4 pb-8">
-        <p className="font-semibold">Av Carlos Drummond de Anfrade, 436 - Praia dos Amores - Balneário Camboriú - SC</p>
+        <p className="font-semibold">Av Carlos Drummond de Andrade, 436 - Praia dos Amores - Balneário Camboriú - SC</p>
         <p>CNPJ 42.461.847/0001-13</p>
         <div className="relative flex flex-col items-center">
           <img src="/images/dardo.png" className="w-72 absolute -bottom-20" />
